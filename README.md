@@ -12,6 +12,7 @@ This is a solution to the [Single price grid component challenge on Frontend Men
 - Semantic HTML5 markup for structuring the content
 - CSS3 custom properties for styling
 - CSS Grid for creating responsive layout
+- Mobile-first workflow
 - Media Queries for handling responsiveness
 
 ## What I Learned:
